@@ -134,7 +134,7 @@ Feel free to fork the project and submit pull requests for improvements or bug f
 - **Module Not Found:** Ensure `pymysql` and `pandas` are installed.
 
 ## 📧 Contact
-For any queries, contact: [Your Name] - [Your Email]  
+For any queries, contact: [Anamay Prasad] - [anamayprasad1@gmail.com]  
 
 ---
 
