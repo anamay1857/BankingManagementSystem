@@ -113,7 +113,7 @@ The **Banking Management System** is a Python-based desktop application built us
    ```
 3. **Run the application:**
    ```bash
-   python banking_app.py
+   python3 main-GUI.py
    ```
 
 ## 🗒️ How It Works
