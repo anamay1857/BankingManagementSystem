@@ -104,8 +104,8 @@ The **Banking Management System** is a Python-based desktop application built us
 ## 📥 Installation & Running the Application
 1. **Clone the repository or download the files:**
    ```bash
-   git clone https://github.com/your-repo/banking-management-system.git
-   cd banking-management-system
+   git clone https://github.com/anamay1857/BankingManagementSystem.git
+   cd BankingManagementSystem
    ```
 2. **Install dependencies:**
    ```bash
